@@ -8,7 +8,7 @@
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
     <title>黑马头条</title>
     <!-- 引入样式文件 -->
-    <link rel="stylesheet" href="../../../plugins/css/vant-index.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vant@2.12.20/lib/index.css">
     <!-- 页面样式 -->
     <link rel="stylesheet" href="../../../plugins/css/index.css">
 </head>
@@ -169,9 +169,9 @@
 </div>
 
 <!-- 引入 Vue 和 Vant 的 JS 文件 -->
-<script src="../../../plugins/js/vue.min.js">
+<script src=" https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js">
 </script>
-<script src="../../../plugins/js/vant.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vant@2.12.20/lib/vant.min.js"></script>
 <!-- 引入 Axios 的 JS 文件 -->
 <#--<script src="https://unpkg.com/axios/dist/axios.min.js"></script>-->
 <script src="../../../plugins/js/axios.min.js"></script>
