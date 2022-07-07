@@ -25,7 +25,7 @@ import java.io.FileNotFoundException;
 public class MinIOTest {
 
 
-    //test
+    
 
     @Autowired
     private FileStorageService fileStorageService;
