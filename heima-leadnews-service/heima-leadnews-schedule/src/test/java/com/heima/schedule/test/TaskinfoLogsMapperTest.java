@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.Date;
 
 /**
- * @description: TODO 测试乐观锁
+ * @description:  测试乐观锁
  * @ClassName: TaskinfoLogsMapperTest
  * @author: Zle
  * @date: 2022-06-30 22:09

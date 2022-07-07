@@ -4,7 +4,7 @@ import com.heima.model.article.pojos.ApArticle;
 import lombok.Data;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: HotArticleVo
  * @author: Zle
  * @date: 2022-07-05 20:03

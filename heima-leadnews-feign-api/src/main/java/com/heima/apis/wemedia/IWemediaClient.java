@@ -5,7 +5,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * @description: TODO
+ * @description:   
  * @ClassName: IWemediaClient
  * @author: Zle
  * @date: 2022-07-05 20:12

@@ -6,7 +6,7 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: TaskinfoLogs
  * @author: Zle
  * @date: 2022-06-29 20:33

@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description: TODO APP用户搜索信息表 前端控制器
+ * @description:  APP用户搜索信息表 前端控制器
  * @ClassName: ApUserSearchController
  * @author: Zle
  * @date: 2022-07-03 19:01

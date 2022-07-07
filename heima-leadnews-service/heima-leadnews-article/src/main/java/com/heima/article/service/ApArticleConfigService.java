@@ -7,7 +7,7 @@ import com.heima.model.article.pojos.ApArticleConfig;
 import java.util.Map;
 
 /**
- * @description: TODO
+ * @description:   
  * @ClassName: ApArticleConfigService
  * @author: Zle
  * @date: 2022-07-02 19:05

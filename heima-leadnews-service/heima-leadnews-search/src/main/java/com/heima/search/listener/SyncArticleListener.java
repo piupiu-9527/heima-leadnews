@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: SyncArticleListener
  * @author: Zle
  * @date: 2022-07-02 23:41

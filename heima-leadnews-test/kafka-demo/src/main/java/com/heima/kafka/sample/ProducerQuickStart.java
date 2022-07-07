@@ -7,7 +7,7 @@ import org.apache.kafka.clients.producer.ProducerRecord;
 import java.util.Properties;
 
 /**
- * @description: TODO kafka生产者
+ * @description: kafka生产者
  * @ClassName: ProducerQuickStart
  * @author: Zle
  * @date: 2022-07-02 15:21

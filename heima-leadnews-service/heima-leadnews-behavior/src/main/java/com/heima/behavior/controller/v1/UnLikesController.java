@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description: TODO 点赞
+ * @description:    点赞
  * @ClassName: LikesController
  * @author: Zle
  * @date: 2022-07-03 10:22

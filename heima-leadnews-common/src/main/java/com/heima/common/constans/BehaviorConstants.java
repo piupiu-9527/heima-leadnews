@@ -1,6 +1,6 @@
 package com.heima.common.constans;
 /**
- * @description: TODO
+ * @description:
  * @ClassName: BehaviorConstants
  * @author: Zle
  * @date: 2022-07-03 20:58

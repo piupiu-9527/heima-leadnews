@@ -9,7 +9,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 
 /**
- * @description: TODO 服务降级处理逻辑  feign失败配置
+ * @description:    服务降级处理逻辑  feign失败配置
  * @ClassName: IArticleClientFallback
  * @author: Zle
  * @date: 2022-06-28 18:43

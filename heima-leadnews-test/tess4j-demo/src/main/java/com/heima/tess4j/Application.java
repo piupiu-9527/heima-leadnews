@@ -6,7 +6,7 @@ import net.sourceforge.tess4j.TesseractException;
 import java.io.File;
 
 /**
- * @description: TODO 测试图片文字识别
+ * @description:  测试图片文字识别
  * @ClassName: Application
  * @author: Zle
  * @date: 2022-06-28 21:04

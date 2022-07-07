@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @description: TODO 获取用户id
+ * @description:  获取用户id
  * @ClassName: AppTokenInterceptor
  * @author: Zle
  * @date: 2022-07-03 18:29

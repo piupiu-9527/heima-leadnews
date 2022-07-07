@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: RedisTest
  * @author: Zle
  * @date: 2022-06-29 23:40

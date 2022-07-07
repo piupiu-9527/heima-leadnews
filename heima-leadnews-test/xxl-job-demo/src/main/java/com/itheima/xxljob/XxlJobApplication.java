@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: XxlJobApplication
  * @author: Zle
  * @date: 2022-07-05 18:27

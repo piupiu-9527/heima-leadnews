@@ -28,7 +28,6 @@ public class ApArticleTest {
     @Autowired
     private RestHighLevelClient restHighLevelClient;
 
-    // test
     /**
      * 注意：数据量的导入，如果数据量过大，需要分页导入
      * @throws Exception

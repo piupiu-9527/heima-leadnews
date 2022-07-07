@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.Properties;
 
 /**
- * @description: TODO kafka消费者
+ * @description:  kafka消费者
  * @ClassName: ConsumerQuickStart
  * @author: Zle
  * @date: 2022-07-02 15:24

@@ -3,7 +3,7 @@ package com.heima.model.behavior.dtos;
 import lombok.Data;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: ReadBehaviorDto
  * @author: Zle
  * @date: 2022-07-04 10:56

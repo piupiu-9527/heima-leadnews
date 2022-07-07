@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: LikesServiceImpl
  * @author: Zle
  * @date: 2022-07-03 10:29

@@ -17,7 +17,7 @@ import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: ReadServiceImpl
  * @author: Zle
  * @date: 2022-07-04 11:21

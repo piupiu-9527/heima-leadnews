@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @description: TODO 生成静态文件上传到minio中
+ * @description:    生成静态文件上传到minio中
  * @ClassName: ArticleFreemarkerServiceImpl
  * @author: Zle
  * @date: 2022-06-29 19:27

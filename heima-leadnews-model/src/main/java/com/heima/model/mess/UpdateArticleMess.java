@@ -3,7 +3,7 @@ package com.heima.model.mess;
 import lombok.Data;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: UpdateArticleMess
  * @author: Zle
  * @date: 2022-07-03 10:10

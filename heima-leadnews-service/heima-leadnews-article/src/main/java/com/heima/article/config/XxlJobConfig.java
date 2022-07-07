@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @description: TODO
+ * @description:   
  * @ClassName: XxlJobConfig
  * @author: Zle
  * @date: 2022-07-05 20:55

@@ -4,7 +4,7 @@ import com.heima.model.common.dtos.ResponseResult;
 import com.heima.model.search.dtos.UserSearchDto;
 
 /**
- * @description: TODO 联想词表 服务类
+ * @description:  联想词表 服务类
  * @ClassName: ApAssociateWordsService
  * @author: Zle
  * @date: 2022-07-03 20:17

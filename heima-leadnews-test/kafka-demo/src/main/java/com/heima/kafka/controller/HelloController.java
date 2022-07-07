@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description: TODO 消息生产者
+ * @description: 消息生产者
  * @ClassName: HelloController
  * @author: Zle
  * @date: 2022-07-02 16:38

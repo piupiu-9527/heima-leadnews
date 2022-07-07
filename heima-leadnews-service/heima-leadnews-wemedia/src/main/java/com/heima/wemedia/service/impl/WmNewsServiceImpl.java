@@ -104,7 +104,7 @@ public class WmNewsServiceImpl extends ServiceImpl<WmNewsMapper, WmNews> impleme
         //发布时间倒序查询
         lambdaQueryWrapper.orderByDesc(WmNews::getCreatedTime);
         page(page,lambdaQueryWrapper);
-        //3.结果返回   TODO
+        //3.结果返回
         PageResponseResult responseResult = new PageResponseResult(dto.getPage(),dto.getSize(), (int) page.getTotal());
         //把查询出来的数据集合    放入到data里
         responseResult.setData(page.getRecords());

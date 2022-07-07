@@ -3,7 +3,7 @@ package com.heima.model.user.dtos;
 import lombok.Data;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: UserRelationDto
  * @author: Zle
  * @date: 2022-07-04 15:46

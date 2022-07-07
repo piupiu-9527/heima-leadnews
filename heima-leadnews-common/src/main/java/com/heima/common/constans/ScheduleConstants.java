@@ -1,6 +1,6 @@
 package com.heima.common.constans;
 /**
- * @description: TODO 常量类
+ * @description: 常量类
  * @ClassName: ScheduleConstants
  * @author: Zle
  * @date: 2022-06-30 22:59

@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: TaskTypeEnum
  * @author: Zle
  * @date: 2022-07-01 22:25

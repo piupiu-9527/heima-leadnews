@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @description: TODO
+ * @description:   
  * @ClassName: ComputeHotArticleJob
  * @author: Zle
  * @date: 2022-07-05 20:57

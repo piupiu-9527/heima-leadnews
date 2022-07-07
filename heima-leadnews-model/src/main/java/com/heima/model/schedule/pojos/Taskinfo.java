@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: Taskinfo
  * @author: Zle
  * @date: 2022-06-29 20:32

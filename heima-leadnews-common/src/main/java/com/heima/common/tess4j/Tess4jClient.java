@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import java.awt.image.BufferedImage;
 
 /**
- * @description: TODO 工具类 封装tess4j
+ * @description: 工具类 封装tess4j
  * @ClassName: Tess4jClient
  * @author: Zle
  * @date: 2022-06-28 21:13

@@ -3,7 +3,7 @@ package com.heima.model.behavior.dtos;
 import lombok.Data;
 
 /**
- * @description: TODO 点赞或取消
+ * @description:  点赞或取消
  * @ClassName: LikesBehaviorDto
  * @author: Zle
  * @date: 2022-07-03 10:17

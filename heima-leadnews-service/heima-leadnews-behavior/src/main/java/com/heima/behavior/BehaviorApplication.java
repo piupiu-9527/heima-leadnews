@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: BehaviorApplication
  * @author: Zle
  * @date: 2022-07-04 15:00

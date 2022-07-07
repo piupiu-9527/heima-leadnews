@@ -3,7 +3,7 @@ package com.heima.model.article.dtos;
 import lombok.Data;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: ArticleInfoDto
  * @author: Zle
  * @date: 2022-07-04 21:13

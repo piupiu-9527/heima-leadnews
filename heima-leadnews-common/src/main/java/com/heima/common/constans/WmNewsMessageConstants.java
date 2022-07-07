@@ -1,6 +1,6 @@
 package com.heima.common.constans;
 /**
- * @description: TODO 文章上下架发送消息
+ * @description: 文章上下架发送消息
  * @ClassName: WmNewsMessageConstants
  * @author: Zle
  * @date: 2022-07-02 18:59

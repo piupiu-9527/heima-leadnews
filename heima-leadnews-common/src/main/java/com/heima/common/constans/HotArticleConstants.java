@@ -1,6 +1,6 @@
 package com.heima.common.constans;
 /**
- * @description: TODO
+ * @description:
  * @ClassName: HotArticleConstants
  * @author: Zle
  * @date: 2022-07-04 10:44

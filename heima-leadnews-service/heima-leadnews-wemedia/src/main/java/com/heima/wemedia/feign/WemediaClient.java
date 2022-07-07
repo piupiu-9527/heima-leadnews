@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: WemediaClient
  * @author: Zle
  * @date: 2022-07-05 20:17

@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: ApAssociateWordsController
  * @author: Zle
  * @date: 2022-07-03 20:16

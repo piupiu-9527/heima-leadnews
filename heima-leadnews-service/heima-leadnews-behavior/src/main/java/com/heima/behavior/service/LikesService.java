@@ -4,7 +4,7 @@ import com.heima.model.behavior.dtos.LikesBehaviorDto;
 import com.heima.model.common.dtos.ResponseResult;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: LikesService
  * @author: Zle
  * @date: 2022-07-03 10:28

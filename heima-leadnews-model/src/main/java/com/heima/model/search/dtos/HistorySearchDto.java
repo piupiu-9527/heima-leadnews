@@ -3,7 +3,7 @@ package com.heima.model.search.dtos;
 import lombok.Data;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: HistorySearchDto
  * @author: Zle
  * @date: 2022-07-03 20:13

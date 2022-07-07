@@ -3,7 +3,7 @@ package com.heima.utils.thread;
 import com.heima.model.user.pojos.ApUser;
 
 /**
- * @description: TODO
+ * @description:
  * @ClassName: AppThreadLocalUtil
  * @author: Zle
  * @date: 2022-07-03 18:31
