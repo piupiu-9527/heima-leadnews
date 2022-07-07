@@ -24,6 +24,9 @@ import java.io.FileNotFoundException;
 @RunWith(SpringRunner.class)
 public class MinIOTest {
 
+
+    //test
+
     @Autowired
     private FileStorageService fileStorageService;
 
